@@ -8,7 +8,7 @@ Now i am learning web development and want get knowledge in this sphere.
  * CSS/SCSS
  * GULP
  * JS (basic skills)
- * Photoshop/Figma/Zeplin
+ * Photoshop/ Figma/ Zeplin
  
 ### Experience
 I have no commercial development experience. 
